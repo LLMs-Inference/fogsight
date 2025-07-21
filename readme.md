@@ -112,7 +112,7 @@
    cp demo-credentials.json credentials.json
    # 复制 demo-credentials.json 文件并重命名为 credentials.json
    # 编辑 credentials.json 文件，填入您的 API_KEY 和 BASE_URL。
-   # **请注意**，fogsight 实际使用的是与 OpenAI 兼容的软件开发工具包（Software Development Kit，SDK），但您仍应使用 Gemini 2.5 Pro。
+   # **请注意**，fogsight 实际使用的是与 OpenAI 兼容的接口格式，但建议你使用 Gemini 2.5 Pro 为好。
    ```
 
 4. **一键启动应用程序：**
