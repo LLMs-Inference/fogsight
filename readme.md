@@ -8,15 +8,14 @@
 </p>
 
 <h3 align="center">
-雾象是一款由尖端大语言模型（Large Language Model，LLM）驱动的动画引擎 Agent。用户只需输入抽象概念或词语，雾象系统能自动将其转化为高水平的生动动画。
+雾象是一款由尖端大语言模型（Large Language Model，LLM）驱动的动画引擎 Agent
 </h3>
 
 <p align="center">
 | <a href="https://deepwiki.com/fogsightai/fogsight"><b>🤖 Ask DeepWiki</b></a> | 
 </p>
 
-部署雾象到本地后，只需输入词语并点击生成，即可获得动画。
-
+用户只需输入抽象概念或词语，雾象系统能自动将其转化为高水平的生动动画。部署项目代码到本地后，用户只需输入词语并点击生成，即可获得动画。
 
 <p align="center">
   <img src="https://github.com/hamutama/caimaopics/raw/main/fogsight/1.png"
