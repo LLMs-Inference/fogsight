@@ -35,7 +35,7 @@
         <img src="https://github.com/hamutama/caimaopics/raw/main/fogsight/thumbnails/entropy_increase_thumbnail.png" width="350"><br>
         <strong>The Law of Increasing Entropy (Physics)</strong><br>
         <strong>熵增定律（物理学）</strong><br>
-        <em>输入: 熵增定律</em>
+        <em>输入：熵增定律</em>
       </a>
     </td>
     <td align="center">
@@ -43,7 +43,7 @@
         <img src="https://github.com/hamutama/caimaopics/raw/main/fogsight/thumbnails/euler_formula_thumbnail.png" width="350"><br>
         <strong>Euler's Polyhedron Formula (Mathematics)</strong><br>
         <strong>欧拉多面体定理（数学）</strong><br>
-        <em>输入: 欧拉定理</em>
+        <em>输入：欧拉定理</em>
       </a>
     </td>
   </tr>
@@ -53,7 +53,7 @@
         <img src="https://github.com/hamutama/caimaopics/raw/main/fogsight/thumbnails/bubble_sort_thumbnail.png" width="350"><br>
         <strong>Bubble Sort (Computer Science)</strong><br>
         <strong>冒泡排序（计算机科学）</strong><br>
-        <em>输入: 冒泡排序</em>
+        <em>输入：冒泡排序</em>
       </a>
     </td>
     <td align="center">
@@ -61,7 +61,7 @@
         <img src="https://github.com/hamutama/caimaopics/raw/main/fogsight/thumbnails/affordance_thumbnail.png" width="350"><br>
         <strong>Affordance (Design)</strong><br>
         <strong>可供性（设计学）</strong><br>
-        <em>输入: affordance in design</em>
+        <em>输入：affordance in design</em>
       </a>
     </td>
   </tr>
@@ -70,11 +70,11 @@
 
 ## 🛞 核心功能
 
-* **概念即影像**: 输入一个具体主题，Fogsight 将为您精心打造一部叙事完整、高水平的动画。这部动画将配备双语旁白，并呈现电影级的视觉质感。
+* **概念即影像**：输入一个具体主题，Fogsight 将为您精心打造一部叙事完整、高水平的动画。这部动画将配备双语旁白，并呈现电影级的视觉质感。
 
-* **智能编排**: Fogsight 的核心在于其强大的 LLM 驱动的编排能力。从旁白到视觉元素，再到动态效果，AI 能够自动完成整个创作流程，流畅无阻。
+* **智能编排**：Fogsight 的核心在于其强大的 LLM 驱动的编排能力。从旁白到视觉元素，再到动态效果，AI 能够自动完成整个创作流程，流畅无阻。
 
-* **语言用户界面（LUI）**: 通过多轮与 AI 的对话，您可以对动画进行精确调整和优化，直至实现心中最理想的艺术效果。  
+* **语言用户界面（LUI）**：通过多轮与 AI 的对话，您可以对动画进行精确调整和优化，直至实现心中最理想的艺术效果。  
 
 
 ## 🙌 快速上手
@@ -85,7 +85,7 @@
 
 * 一个现代网络浏览器，如 Chrome、Firefox 或 Edge。
 
-* 拥有调用权限的大语言模型具有专属的 API KEY。我们推荐您使用 Google Gemini Pro 2.5。 
+* 拥有调用权限的大语言模型的 API KEY。我们推荐您使用 Google Gemini Pro 2.5。 
 
 ### 安装与运行
 
@@ -107,7 +107,7 @@
    cp demo-credentials.json credentials.json
    # 复制 demo-credentials.json 文件并重命名为 credentials.json
    # 编辑 credentials.json 文件，填入您的 API_KEY 和 BASE_URL。
-   # **请注意**，fogsight 实际使用的是与 OpenAI 兼容的 SDK，但您仍应使用 Gemini 2.5 Pro
+   # **请注意**，fogsight 实际使用的是与 OpenAI 兼容的软件开发工具包（Software Development Kit，SDK），但您仍应使用 Gemini 2.5 Pro。
    ```
 
 4. **一键启动应用程序：**
@@ -120,7 +120,7 @@
 
 5. **开始创作！**
 
-   在页面中输入一个主题（例如 “冒泡排序”），然后等待结果生成。
+   在页面中输入一个主题（例如 “冒泡排序”），然后等待结果生成即可。
 
 
 ## 📱 联系我们/加入群聊
@@ -165,4 +165,4 @@
 
 ## 💓 开源许可
 
-本项目基于 MIT 许可证开源。如能在引用此项目时署上我们的名字并提供项目链接，我们将不胜感激 😊。
+本项目实际基于 MIT 许可证开源。如能在引用此项目时署上我们的名字并提供项目链接，我们将不胜感激 ✨ 😊。
