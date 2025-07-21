@@ -32,46 +32,46 @@
 
 以下是 Fogsight AI 生成的动画示例，请点击跳转查看：
 
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.bilibili.com/video/BV1PXgKzBEyN">
-        <img src="https://github.com/hamutama/caimaopics/raw/main/fogsight/thumbnails/entropy_increase_thumbnail.png" width="350"><br>
-        <strong>The Law of Increasing Entropy (Physics)</strong><br>
-        <strong>熵增定律（物理学）</strong><br>
-        <em>输入：熵增定律</em>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.bilibili.com/video/BV1yXgKzqE42">
-        <img src="https://github.com/hamutama/caimaopics/raw/main/fogsight/thumbnails/euler_formula_thumbnail.png" width="350"><br>
-        <strong>Euler's Polyhedron Formula (Mathematics)</strong><br>
-        <strong>欧拉多面体定理（数学）</strong><br>
-        <em>输入：欧拉定理</em>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.bilibili.com/video/BV1sQgKzMEox">
-        <img src="https://github.com/hamutama/caimaopics/raw/main/fogsight/thumbnails/bubble_sort_thumbnail.png" width="350"><br>
-        <strong>Bubble Sort (Computer Science)</strong><br>
-        <strong>冒泡排序（计算机科学）</strong><br>
-        <em>输入：冒泡排序</em>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.bilibili.com/video/BV1yQgKzMEo6">
-        <img src="https://github.com/hamutama/caimaopics/raw/main/fogsight/thumbnails/affordance_thumbnail.png" width="350"><br>
-        <strong>Affordance (Design)</strong><br>
-        <strong>可供性（设计学）</strong><br>
-        <em>输入：affordance in design</em>
-      </a>
-    </td>
-  </tr>
-</table>
-
+<div style="display: flex; justify-content: center;">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.bilibili.com/video/BV1PXgKzBEyN">
+          <img src="https://github.com/hamutama/caimaopics/raw/main/fogsight/thumbnails/entropy_increase_thumbnail.png" width="350"><br>
+          <strong>The Law of Increasing Entropy (Physics)</strong><br>
+          <strong>熵增定律（物理学）</strong><br>
+          <em>输入：熵增定律</em>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.bilibili.com/video/BV1yXgKzqE42">
+          <img src="https://github.com/hamutama/caimaopics/raw/main/fogsight/thumbnails/euler_formula_thumbnail.png" width="350"><br>
+          <strong>Euler's Polyhedron Formula (Mathematics)</strong><br>
+          <strong>欧拉多面体定理（数学）</strong><br>
+          <em>输入：欧拉定理</em>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.bilibili.com/video/BV1sQgKzMEox">
+          <img src="https://github.com/hamutama/caimaopics/raw/main/fogsight/thumbnails/bubble_sort_thumbnail.png" width="350"><br>
+          <strong>Bubble Sort (Computer Science)</strong><br>
+          <strong>冒泡排序（计算机科学）</strong><br>
+          <em>输入：冒泡排序</em>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.bilibili.com/video/BV1yQgKzMEo6">
+          <img src="https://github.com/hamutama/caimaopics/raw/main/fogsight/thumbnails/affordance_thumbnail.png" width="350"><br>
+          <strong>Affordance (Design)</strong><br>
+          <strong>可供性（设计学）</strong><br>
+          <em>输入：affordance in design</em>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🛞 核心功能
 
